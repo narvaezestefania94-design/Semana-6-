@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada porque
+esto garantiza que la información llegue clara, completa y comparable. Cuando los datos se organizan en 
+campos definidos —como tipo de problema, ubicación precisa, fecha y evidencia— se facilita su análisis y
+clasificación, lo que permite identificar patrones y priorizar situaciones urgentes. La estandarización 
+también reduce errores y ambigüedades, pues todos los usuarios siguen el mismo formato y la plataforma 
+puede validar automáticamente inconsistencias. Además, una estructura uniforme agiliza la toma de decisiones 
+institucionales, mejora la trazabilidad de cada caso y fortalece la transparencia. En última instancia, este 
+ordenamiento potencia la participación ciudadana, ya que los reportes se transforman en información útil 
+que realmente impulsa acciones y soluciones dentro de la comunidad.
